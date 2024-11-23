@@ -8,9 +8,10 @@ const server = http.createServer(app);
 
 app.use(
   cors({
-    origin: process.env.CLIENT_URL ?? "http://localhost:5173",
+    origin: "*", // 개발 중에는 모든 origin 허용
     methods: ["GET", "POST"],
     credentials: true,
+    allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
 
