@@ -24,7 +24,7 @@ export class StateManager {
         const data = await fs.readFile(this.filePath, "utf-8");
         this.currentState = JSON.parse(data);
       } catch (error) {
-        // 파일이 없는 경우 초기 상태 생성
+        // 파일이 없는 경우 초기 상태
         const initialState: AppState = {
           sections: [
             { id: 1, title: "김민경", items: [] },
@@ -108,6 +108,8 @@ export class StateManager {
             { id: 70, name: "오윤식" },
             { id: 71, name: "김휴" },
             { id: 72, name: "최우철" },
+            { id: 73, name: "이새봄" },
+            { id: 74, name: "유형철" },
           ],
           lastUpdated: Date.now(),
         };
