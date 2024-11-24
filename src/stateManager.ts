@@ -32,10 +32,6 @@ export class StateManager {
               title: "김민경",
               items: [
                 {
-                  id: 37,
-                  name: "김현진",
-                },
-                {
                   id: 40,
                   name: "임하은",
                 },
@@ -52,24 +48,40 @@ export class StateManager {
                   name: "서민지",
                 },
                 {
-                  id: 90,
-                  name: "허예원",
-                },
-                {
                   id: 95,
                   name: "박지은",
                 },
                 {
-                  id: 96,
-                  name: "조효은",
+                  id: 73,
+                  name: "이새봄",
                 },
                 {
-                  id: 4,
-                  name: "여민구",
+                  id: 50,
+                  name: "김재준",
                 },
                 {
-                  id: 64,
-                  name: "장승호",
+                  id: 51,
+                  name: "진기성",
+                },
+                {
+                  id: 59,
+                  name: "서희원",
+                },
+                {
+                  id: 58,
+                  name: "최민서",
+                },
+                {
+                  id: 77,
+                  name: "안희웅",
+                },
+                {
+                  id: 200,
+                  name: "김현지",
+                },
+                {
+                  id: 55,
+                  name: "김조경",
                 },
               ],
             },
@@ -102,8 +114,12 @@ export class StateManager {
                   name: "이혜지",
                 },
                 {
-                  id: 85,
-                  name: "유호준",
+                  id: 47,
+                  name: "유진호",
+                },
+                {
+                  id: 74,
+                  name: "유형철",
                 },
               ],
             },
@@ -112,20 +128,8 @@ export class StateManager {
               title: "김정민",
               items: [
                 {
-                  id: 70,
-                  name: "오윤식",
-                },
-                {
                   id: 39,
                   name: "고예진",
-                },
-                {
-                  id: 78,
-                  name: "이창욱",
-                },
-                {
-                  id: 17,
-                  name: "이청관",
                 },
                 {
                   id: 46,
@@ -146,6 +150,30 @@ export class StateManager {
                 {
                   id: 97,
                   name: "전도훈",
+                },
+                {
+                  id: 64,
+                  name: "장승호",
+                },
+                {
+                  id: 90,
+                  name: "허예원",
+                },
+                {
+                  id: 85,
+                  name: "유호준",
+                },
+                {
+                  id: 78,
+                  name: "이창욱",
+                },
+                {
+                  id: 207,
+                  name: "최현오",
+                },
+                {
+                  id: 70,
+                  name: "오윤식",
                 },
               ],
             },
@@ -170,10 +198,6 @@ export class StateManager {
                   name: "정여진",
                 },
                 {
-                  id: 16,
-                  name: "윤병진",
-                },
-                {
                   id: 91,
                   name: "최현준",
                 },
@@ -186,16 +210,28 @@ export class StateManager {
                   name: "이희범",
                 },
                 {
-                  id: 86,
-                  name: "오에스더",
-                },
-                {
                   id: 79,
                   name: "김은희",
                 },
                 {
-                  id: 77,
-                  name: "안희웅",
+                  id: 41,
+                  name: "김혜원",
+                },
+                {
+                  id: 4,
+                  name: "여민구",
+                },
+                {
+                  id: 205,
+                  name: "이현호",
+                },
+                {
+                  id: 206,
+                  name: "오주영",
+                },
+                {
+                  id: 204,
+                  name: "최성민",
                 },
               ],
             },
@@ -216,12 +252,12 @@ export class StateManager {
                   name: "조성용",
                 },
                 {
-                  id: 52,
-                  name: "이용환",
+                  id: 16,
+                  name: "윤병진",
                 },
                 {
-                  id: 55,
-                  name: "김조경",
+                  id: 17,
+                  name: "이청관",
                 },
               ],
             },
@@ -246,16 +282,24 @@ export class StateManager {
                   name: "박지성",
                 },
                 {
-                  id: 74,
-                  name: "유형철",
-                },
-                {
                   id: 62,
                   name: "이주찬",
                 },
                 {
                   id: 36,
                   name: "최선호",
+                },
+                {
+                  id: 96,
+                  name: "조효은",
+                },
+                {
+                  id: 202,
+                  name: "김영광",
+                },
+                {
+                  id: 203,
+                  name: "오창석",
                 },
               ],
             },
@@ -272,10 +316,6 @@ export class StateManager {
                   name: "이민석",
                 },
                 {
-                  id: 47,
-                  name: "유진호",
-                },
-                {
                   id: 28,
                   name: "황청환",
                 },
@@ -284,28 +324,12 @@ export class StateManager {
                   name: "이찬호(혜선)",
                 },
                 {
-                  id: 73,
-                  name: "이새봄",
-                },
-                {
-                  id: 50,
-                  name: "김재준",
-                },
-                {
-                  id: 51,
-                  name: "진기성",
-                },
-                {
-                  id: 58,
-                  name: "최민서",
-                },
-                {
-                  id: 59,
-                  name: "서희원",
-                },
-                {
                   id: 56,
                   name: "김초롱",
+                },
+                {
+                  id: 52,
+                  name: "이용환",
                 },
               ],
             },
@@ -336,10 +360,6 @@ export class StateManager {
                 {
                   id: 26,
                   name: "정의진",
-                },
-                {
-                  id: 41,
-                  name: "김혜원",
                 },
               ],
             },
@@ -387,6 +407,10 @@ export class StateManager {
                   id: 30,
                   name: "박미연",
                 },
+                {
+                  id: 201,
+                  name: "신예은",
+                },
               ],
             },
             {
@@ -421,13 +445,18 @@ export class StateManager {
                   id: 66,
                   name: "차지원",
                 },
+                {
+                  id: 37,
+                  name: "김현진",
+                },
+                {
+                  id: 86,
+                  name: "오에스더",
+                },
               ],
             },
           ],
-          items: [
-            { id: 200, name: "김현지" },
-            { id: 201, name: "신예은" },
-          ],
+          items: [],
           lastUpdated: Date.now(),
         };
 
